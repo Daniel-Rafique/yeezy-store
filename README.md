@@ -9,7 +9,7 @@ Now if only Ethereum could scale to meet the demand of YEEZYS!!
 
 
 # Requires Truffle & Ganache
-    Download Ganache from here: [link](http://truffleframework.com/ganache/)
+    Download Ganache from here: [Here]: http://truffleframework.com/ganache/
 
 ## Install Truffle    
     npm install -g truffle
