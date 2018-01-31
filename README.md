@@ -7,9 +7,9 @@ Now if only Ethereum could scale to meet the demand of YEEZYS!!
 
 ![alt text](/screenshot.png "Smart contrat eCommerce")
 
-Download Ganache from here: [Here]: http://truffleframework.com/ganache/
 
 # Requires Truffle & Ganache
+ Download Ganache from here: http://truffleframework.com/ganache/
 
 ## Install Truffle    
     npm install -g truffle
