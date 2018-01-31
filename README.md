@@ -2,7 +2,7 @@
 A blockchain based webstore using ethereum smart contract to transfer ownership of the ever popular Yeezy's
 
 # Requires Truffle & Ganache
-    Download Truffle from here: http://truffleframework.com/ganache/
+    Download Truffle from here: [link] http://truffleframework.com/ganache/
 
 ## Install Truffle    
     npm install -g truffle
@@ -28,5 +28,7 @@ A blockchain based webstore using ethereum smart contract to transfer ownership 
 
     Select Custom and enter http://127.0.0.1:7450 as the New URL and Save 
     You should see Private Network in the top left of meta mask
+
+    ![alt text]2018-01-31 15.51.08.png
 
     NOW YOU CAN COP SOME YEEZYS!!!!               
