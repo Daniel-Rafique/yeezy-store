@@ -1,6 +1,10 @@
 # yeezy-store
 A blockchain based webstore using ethereum smart contract to transfer ownership of the ever popular Yeezy's
 
+This is a proof of concept to demonstrate how smart contracts can be used for online retail, this dApp can be implemented along with a JSON feed of products from a traditional webstore to make purchases using a smart contract and the best thing is merchants will know exactly how many you have sold!!!
+
+Now if only Ethereum could scale to meet the demand of YEEZYS!!
+
 ![alt text](/screenshot.png "Smart contrat eCommerce")
 
 
