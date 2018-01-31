@@ -1,7 +1,7 @@
 # yeezy-store
 A blockchain based webstore using ethereum smart contract to transfer ownership of the ever popular Yeezy's
 
-    ![alt text](screenshot.png "Smart Contract eCommerce")
+![alt text](/screenshot.png "Smart contrat eCommerce")
 
 
 # Requires Truffle & Ganache
