@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "YEEZY 350 BOOST",
+    "picture": "images/yeezy-350-boost-grey.jpeg",
+    "price": 150,
+    "color": "Black",
+    "sku": "yz305bgrey"
+  },
+  {
+    "id": 1,
+    "name": "YEEZY 350 BOOST",
+    "picture": "images/yeezy-350-boost-black.jpeg",
+    "price": 150,
+    "color": "Black",
+    "sku": "yz305bblack"
+  },
+  {
+    "id": 2,
+    "name": "YEEZY 350 BOOST",
+    "picture": "images/yeezy-350-boost-zebra.jpeg",
+    "price": 150,
+    "color": "Zebra",
+    "sku": "yz305bzebra"
+  },
+  {
+    "id": 3,
+    "name": "YEEZY 350 BOOST",
+    "picture": "images/yeezy-350-boost-blue.jpeg",
+    "price": 150,
+    "color": "Blue",
+    "sku": "yz305bblue"
+  },
+  {
+    "id": 4,
+    "name": "YEEZY 350 BOOST",
+    "picture": "images/yeezy-350-boost-pirate-black.jpeg",
+    "price": 150,
+    "color": "Pirate Black",
+    "sku": "yz305pblack"
+  },
+  {
+    "id": 5,
+    "name": "YEEZY 350 BOOST",
+    "picture": "images/yeezy-350-boost-white.jpeg",
+    "price": 150,
+    "color": "White",
+    "sku": "yz305white"
+  },
+  {
+    "id": 6,
+    "name": "YEEZY 350 BOOST",
+    "picture": "images/yeezy-350-boost-yellow.jpeg",
+    "price": 150,
+    "color": "Yellow",
+    "sku": "yz305yellow"
+  },
+  {
+    "id": 7,
+    "name": "YEEZY 350 BOOST",
+    "picture": "images/yeezy-350-boost-copper.jpeg",
+    "price": 150,
+    "color": "Copper",
+    "sku": "yz305copper"
+  },
+  {
+    "id": 8,
+    "name": "YEEZY 750 BOOST",
+    "picture": "images/yeezy-750-boost-black.jpeg",
+    "price": 350,
+    "color": "Black",
+    "sku": "yz750black"
+  },
+  {
+    "id": 9,
+    "name": "YEEZY 750 BOOST",
+    "picture": "images/yeezy-750-boost-brown.jpeg",
+    "price": 350,
+    "color": "Brown",
+    "sku": "yz750brown"
+  },
+  {
+    "id": 10,
+    "name": "YEEZY 750 BOOST",
+    "picture": "images/yeezy-750-boost-grey-gum.jpeg",
+    "price": 350,
+    "color": "Grey/Gum",
+    "sku": "yz750greyGum"
+  },
+  {
+    "id": 11,
+    "name": "YEEZY 750 BOOST",
+    "picture": "images/yeezy-750-boost-grey.jpeg",
+    "price": 350,
+    "color": "Grey",
+    "sku": "yz750grey"
+  }
+]
